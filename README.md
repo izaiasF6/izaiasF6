@@ -1,7 +1,7 @@
 # Sobre mim
 Meu nome é Izaias Ferraz, tenho 19 anos e sou estudande de Ciência da Computação na Universidade Federal do agreste Pernambucano (UFAPE). Concluí o Ensino Médio na ETE-AVS, com o curso técnido de Desenvolvimento de Sistemas. Sou um amante da tecnologia e atualmente estou me especializando na área de ciência de dados.
 
-### Linguagens e Tecnologias
+# Linguagens e Tecnologias
 <table>
   <tr>
     <td align="center">
@@ -39,6 +39,6 @@ Meu nome é Izaias Ferraz, tenho 19 anos e sou estudande de Ciência da Computa�
   </tr>
 </table>
 
-### Projetos
+# Projetos
 [Análise da temporada regular 2023-2024 do Indiana Pacers](https://github.com/izaiasF6/Indiana-Pacers-Analysis)
  - Análise descritiva da temporada regular 23-24 do Indiana Pacers, utilizando python e suas bibliotecas de manipulação e visualização de dados
