@@ -1,63 +1,44 @@
 # Sobre mim
 Meu nome é Izaias Ferraz, tenho 19 anos e sou estudande de Ciência da Computação na Universidade Federal do agreste Pernambucano (UFAPE). Concluí o Ensino Médio na ETE-AVS, com o curso técnido de Desenvolvimento de Sistemas. Sou um amante da tecnologia e atualmente estou me especializando na área de ciência de dados.
 
+### Linguagens e Tecnologias
+<table>
+  <tr>
+    <td align="center">
+      <img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40"/><br>
+      <strong>Python</strong>
+    </td>
+    <td align="center">
+      <img alt="Pandas" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="40"/><br>
+      <strong>Pandas</strong>
+    </td>
+    <td align="center">
+      <img alt="NumPy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="40"/><br>
+      <strong>NumPy</strong>
+    </td>
+    <td align="center">
+      <img alt="Matplotlib" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="40"/><br>
+      <strong>Matplotlib</strong>
+    </td>
+    <td align="center">
+      <img alt="Seaborn" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40"/><br>
+      <strong>Seaborn</strong>
+    </td>
+    <td align="center">
+      <img alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40"/><br>
+      <strong>MySQL</strong>
+    </td>
+    <td align="center">
+      <img alt="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40"/><br>
+      <strong>HTML</strong>
+    </td>
+    <td align="center">
+      <img alt="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40"/><br>
+      <strong>CSS</strong>
+    </td>
+  </tr>
+</table>
 
-# Linguagens e Tecnologias
-<img 
-    alt="Python"
-    title="Python"
-    width="30px"
-    style="padding-right: 10px; padding-bottom: 5px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
-/>
-<img 
-    alt="Pandas"
-    title="Pandas"
-    width="30px"
-    style="padding-right: 10px; padding-bottom: 5px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg"
-/>
-<img 
-    alt="NumPy"
-    title="NumPy"
-    width="30px"
-    style="padding-right: 10px; padding-bottom: 5px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" 
-/>
-<img 
-    alt="Matplotlib"
-    title="Matplotlib"
-    width="30px"
-    style="padding-right: 10px; padding-bottom: 5px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg"
-/>
-<img 
-    alt="Seaborn"
-    title="Seaborn"
-    width="30px"
-    style="padding-right: 10px; padding-bottom: 5px"
-    src = "https://seaborn.pydata.org/_images/logo-mark-lightbg.svg"
-/>
-<img 
-    alt="MySQL"
-    title="MySQL"
-    width="30px"
-    style="padding-right: 10px; padding-bottom: 5px"
-    src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
-/>
-<img 
-    alt="HTML"
-    title="HTML"
-    width="30px"
-    style="padding-right: 10px; padding-bottom: 5px"
-    src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
-/>
-<img 
-    alt="CSS"
-    title="CSS"
-    width="30px"
-    style="padding-right: 10px; padding-bottom: 5px"
-    src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
-/>
-
-# Projetos
+### Projetos
+[Análise da temporada regular 2023-2024 do Indiana Pacers](https://github.com/izaiasF6/Indiana-Pacers-Analysis)
+ - Análise descritiva da temporada regular 23-24 do Indiana Pacers, utilizando python e suas bibliotecas de manipulação e visualização de dados
