@@ -4,7 +4,7 @@ Meu nome é Izaias Ferraz, tenho 19 anos e sou estudande de Ciência da Computa�
 #
 
 # Contato
-<a href = "mailto:izaiasferraz1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:izaiasferraz1@gmail.com)
 
 #
 
