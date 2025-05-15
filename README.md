@@ -1,12 +1,8 @@
 # Sobre mim
 Meu nome é Izaias Ferraz, tenho 19 anos e sou estudande de Ciência da Computação na Universidade Federal do agreste Pernambucano (UFAPE). Concluí o Ensino Médio na ETE-AVS, com o curso técnido de Desenvolvimento de Sistemas. Sou um amante da tecnologia e atualmente estou me especializando na área de ciência de dados.
 
-#
-
 # Contato
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:izaiasferraz1@gmail.com)
-
-#
 
 # Linguagens e Tecnologias
 <table>
@@ -46,8 +42,9 @@ Meu nome é Izaias Ferraz, tenho 19 anos e sou estudande de Ciência da Computa�
   </tr>
 </table>
 
-#
-
 # Projetos
 ## [Análise da temporada regular 2023-2024 do Indiana Pacers](https://github.com/izaiasF6/Indiana-Pacers-Analysis)
  - Análise descritiva da temporada regular 23-24 do Indiana Pacers, utilizando python e suas bibliotecas de manipulação e visualização de dados
+
+## [Spotify dashboard](https://github.com/izaiasF6/Spotify_Dashboard)
+ - Dashboard interativo no Power BI que analisa as 100 músicas mais tocadas de cada semana de 2024, com base de dados do Spotify.
