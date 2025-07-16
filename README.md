@@ -3,7 +3,7 @@ Meu nome é Izaias Ferraz, tenho 19 anos e sou estudande de Ciência da Computa�
 
 # Contato
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:izaiasferraz1@gmail.com)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/izaias-ferraz-5644342b5)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/izaias-ferraz-5644342b5)
 
 # Linguagens e Tecnologias
 <table>
